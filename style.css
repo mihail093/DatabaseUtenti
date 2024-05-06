@@ -1,0 +1,9 @@
+body{
+    background-color: #e4efea;
+}
+tr{
+    cursor: pointer;
+}
+.trow-index{
+    cursor: auto;
+}
